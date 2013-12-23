@@ -1,0 +1,132 @@
+X:1
+T:PianoMan
+C:Billy Joel
+N:Asphyx of Brandywine
+I:Lute, Harp
+Q:1/4=220
+M:1/4
+L:1/8
+K:C
+Cc|
+egecB, BegeBA, |
+AegeAG, Gcge |
+ccfF, cAcAFCFGC |
+A, D, G, A, CG, F, A, CF, G, G, B, |
+F, A, A, CB, B, GG, C, GG, C, E, G, C |
+EGB, GB, B, B, FB, EA, FA, EC |
+A, A, A, G, G, G, F, F, |
+A, F, CCE, E, E, CG, E, E, A, CDD, |
+D, DD, ^F, F, A, G, G, =F, B, A, CA, A, B, CEB, |
+FGC, C, GCEG, C, G, B, G, B, B, DG, |
+G, FB, EA, CA, FA, ECA, G, G, G, |
+G, G, G, G, G, CCF, A, F, F, F, F, CF |
+G, CFG, EG, CG, C, E, CC, E, |
+G, CC, C, F, A, F, C, F, C, G, B, C, C, C, |
+F, C, C, C, F, C, F, A, F, E, G, D, EFG, |
+C, GG, G, C, CEGB, GB, G, B, G, FB, EB, |
+FCA, A, A, ECA, A, G, G, G, |
+G, CF, A, F, F, CF, CE, G, E, E, C |
+E, E, A, CDD, D, A, ^F, D, F, D, A, G, =F, B, G, |
+G, CA, A, B, EB, FC, C, GG, CEGC, G, |
+B, B, B, DGG, G, B, FEFA, A, CA, A, E |
+A, CA, G, G, G, G, G, CF, F, A, F, F, |
+CFF, F, G, CFG, ECG, G, |
+C, CC, G, G, E, CG, CG, E, G, C, E, G, E, C, |
+A, C, A, A, E, A, E, G, E, G, A, E, G, B, |
+C^F, B, A, F, F, =F, A, =F, F, |
+F, F, E, D, A, A, E, G, E, A, A, G, E, A, G, |
+G, G, B, CD, B, B, B, ^F, B, B, D, D, |
+D, D, D, D, D, A, D, G, G, F, B, A, G, G, F, |
+G, G, A, F, CDG, F, G, A, G, G, G, EB, F, G, |
+F, G, D, G, G, FCG, G, CG, EEC, C, GG, |
+GGG, C, GB, B, GDB, B, B, FE |
+A, CFA, A, ECA, G, G, CG, G, G, |
+F, A, F, F, CF, F, _B, CE, G, E, CE, |
+E, E, DD, D, D^F, A, D, F, A, G, G, =F, B, A, A, A, C |
+B, B, CEFC, C, GG, CEGC, G, B, G, B, DGB, |
+G, B, B, G, B, FEA, A, A, CFA, EA, CA, G, G, G, |
+G, G, G, G, CCF, F, F, A, F, F, CF |
+G, A, CFG, EG, CE, CC, G, C, C, G, E, C, G, |
+E, C, G, G, CC, C, F, A, C, F, A, C, CG, B, C, |
+F, C, C, F, C, F, F, A, E, G, D, F, E, G, CC, |
+G, C, C, E, G, CC, F, A, C, F, A, CC, |
+B, G, C, C, B, B, F, C, F, F, A, E, |
+D, EFC, GG, G, CC, G, CEGG, GB, G |
+G, B, B, FEA, A, CFA, A, EA, CG, G, G, |
+G, G, G, G, CF, F, F, A, F, CF, C |
+E, E, E, G, CE, E, DD, D^F, A, |
+^F, A, D, G, G, F, B, A, A, CB, B, EG, FC, C, GG, CEG_E |
+_EC, G, CEGB, B, G, B, DGB, B, G, B, FEA, A, CFA, |
+A, A, CFA, A, EA, CEG, G, G, CG, G, EE |
+F, F, A, CFFF, FF, G, G, CFG, G, E |
+G, G, G, CC, CC, G, E, E, C, C, |
+E, C, E, E, C, C, A, F, F, C, F, F, A, C, F, F, C, A, |
+C, A, F, C, A, C, EFC, GG, CEC, G, CGG, G |
+B, B, B, DGG, B, G, B, G, B, FEA, A, CFA, A, EA, C|
+CA, G, G, G, G, G, CB, F, F, F, A, F, C |
+F, CE, E, E, G, CE, E, A, CDD, D, ^F, D, A, |
+D, A, D, ^F, A, G, G, =F, B, A, A, A, CB, B, EG, FC, C, G |
+G, CEGC, GB, B, G, B, DGG, B, B, G, B, FEA, A, A, CF |
+A, A, A, CFA, EA, CG, G, G, CG, G, C |
+F, CF, A, F, CF, FG, A, CFG, A, E |
+G, CG, G, CC, E, G, C, E, G, E, C, E, |
+G, E, G, E, C, CB, A, A, E, A, E, A, A, G, G, |
+A, G, G, G, B, C^F, B, ^F, F, A, F, |
+F, F, ^F, F, D, F, E, A, A, E, G, |
+A, A, A, G, G, A, G, G, B, CD, B, D, ^F, A, |
+D, ^F, A, D, D, D, ^F, A, D, A, D, D, =F, A, G, G, |
+G, G, G, G, G, G, G, F, A, CDG, F, G, G, D, G, G, F, A, B, E |
+G, G, G, G, A, CDFA, B, C, E, F, G, B, C, D, E, F, G, A, DEGA, ABcD, dB, CFG, efg |
+C, C, GcegGcegC, GgB, B, GBdgB, B, GBf |
+eA, A, AcfecA, G, G, GG, |
+G, F, FAF, cF, F, cE, E, EGcE, |
+E, dD, D, dAD, ^FD, ***, G, =FGB |
+G, G, FGBA, A, AcB, B, eG, fC, C, GcegGcgC, GgBB, B, Gdg |
+B, B, GdgB, B, GfeA, AcfA, A, ecA, |
+G, G, GA, G, G, cF, FAF, F, F, c |
+fG, G, AcfG, eG, cG, C, EcGG, GC, GG, |
+G, GCEC, CFAC, CFAC, DGBC, C, |
+C, C, DC, GDC, F, FACE, EGDD, FG, DC, CEG |
+C, CEGG, G, CEGC, CFAC, CFA |
+C, DGBC, C, F, CFAE, GD, |
+C, GG, C, GE, G, GB, GD, G, B, D |
+G, FE, EA, FEE, CE, A, E, G, G, E, G, |
+G, E, E, G, E, F, A, C, F, CC, CE, G, C |
+E, E, A, CD, DD, ^F, A, DD, |
+G, F, B, F, A, CF, B, EFC, GG, CEG, GC, G, G |
+B, GG, B, DB, G, B, FEB, A, A, CFECA, |
+A, A, G, G, CEG, CEG, EA, F, F, A, CFF, |
+A, FF, A, FF, G, G, A, CFG, FG, ECC, C, G, C |
+E, C, E, G, C, C, C, E, G, E, G, C, E, G, C, C, C, F, A, C|
+F, A, C, F, C, C, F, A, CC, C, gg |
+C, CGcegCGgGgB, GBdgB, B, B, GBf |
+eA, A, AcfeAcA, G, G, GcG, D, |
+cF, F, CAcFF, cF, cE, E, EGcE, |
+E, dD, ^FAdD, D, D, G, G, =FB |
+AcA, A, B, B, efC, C, GcegGgC, GgB, B, GBdg |
+B, B, feA, AcfA, A, AeA, ce |
+G, G, GceG, G, eeF, F, AcfF, AfF, Af|
+G, GcfG, G, GeG, G, cC, C, EGcC |
+CGG, EC, CECEGC, CEA, A, ACE |
+CA, EEAG, G, CACG, Bc^F, ^F, GB |
+^F, ^F, GB^FAF, C=F, =F, C=FA, EF, CA, A, |
+A, A, E, A, AAG, G, GAG, G, BcB |
+BD, D, D, CA, ^FD, ABF, =FG |
+GA, ABcG, FBdD, FG, BD, G, FAcd |
+G, FAcdD, FF, D, G, GceD, GG, D, cG, FAf |
+G, FAfD, FG, C, C, GcegGgC, GgGgB, B, Bcd |
+B, B, BcdB, B, GfeA, AfA, cecA, |
+A, G, G, GG, G, F, F, FAcF, cF, c |
+ccE, E, EcGE, E, dD, dD, ^FA |
+D, ^***, G, =FBA, A, AcB, B, eG, fC, C, GcegGg |
+C, GgB, B, GBdgB, GfB, eA, A, Acf |
+A, eA, eG, GcG, G, G, cF, F, A |
+F, F, AF, fF, fG, G, GcfG, eG, cC, EGc |
+C, EGcG, C, CEGC, CFAC, CF |
+AC, DGBC, DC, C, F, FACE, EGD |
+D, FDG, C, GG, C, G, CEGC, FACC, |
+CCFAC, DGBDGC, DF, CFA |
+E, EGD, DFC, C, G, CEG |
+C, C, G, CEG |
+C, C, G, CEG |
+C, C, G, CEG |

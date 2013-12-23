@@ -1,0 +1,27 @@
+X: 1
+T: 1 09 Shinra Corporation (2:00)
+Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: 1_09_Shinra_Corporation.mid
+%  Transpose: -9
+L: 1/4
+Q: 120
+K: C
+
+E,4 E,3/2 E,21/2 E,4 E,3/2 E,21/2 [^C,^c2^C2] [^C,3z] [^d2^D2]
+[^C,3/2eE] [^f^Fz/2] [^C,21/2z/2] [^g^G] [^a^A] [^C4^G,4c'8=c8]
+[^D4^G,4] [E4^G,4^G4^C4z2] [^C,6z2] [^D4A,4=A4=C4] [E8^G,8^G8^C8z2]
+^C,6 [^A,^c2^C2] [^A,3z] [^d2^D2] [^A,3/2=f=F] [=g=Gz/2] [^A,5/2z/2]
+[=aA] [^a^A] [^C4^A,4c'8=c8] [^D4^A,4] [F4^A,2^A4^C4] [^A,6z2]
+[^D4=C4=A4^F4] [=F8^A,2^A8^C8] ^A,6 [^C,^c2^C2] [^C,3z] [^d2^D2]
+[^C,3/2eE] [^f^Fz/2] [^C,21/2z/2] [^g^G] [^a^A] [^C4^G,4c'8=c8]
+[^D4^G,4] [E4^G,4^G4^C4z2] [^C,6z2] [^D4=A,4=A4=C4] [E8^G,8^G8^C8z2]
+^C,6 [^A,^c2^C2] [^A,3z] [^d2^D2] [^A,3/2=f=F] [=g=Gz/2] [^A,5/2z/2]
+[=aA] [^a^A] [^C4^A,4c'8=c8] [^D4^A,4] [F4^A,2^A4^C4] [^A,6z2]
+[^D4=C4=A4^F4] [=F8^A,2^A8^C8] ^A,6 ^C, [^C,3z] [e2^g2]
+[^C,3/2^d3^f3] [^C,21/2z3/2] [Bb^d] [^c2e2] [^G2^g6^c6] [^G4E2^C2]
+[^F2^D2^C2] [=A,^G4E4^C4] [A,3z] [e2^g2] [A,3/2^d3^f3] [A,21/2z3/2]
+[Bb^d] [^c8e8z4] [^G2E2^C2] [^G2^F2^D2] [^A,^A4=F4^C4] [^A,3z]
+[^c2=f2] [^A,3/2=c3c'3^d3] [^A,21/2z3/2] [^G^gc] [^A2^a2^c2]
+[F2f6^A2] [^A4F2^C2] [^G2F2^D2] [^F,^A4F4^C4] [^F,3z] [^c2f2]
+[^F,3/2=c3c'3^d3] [^F,16z3/2] [^G^gc] [^A10^a16^c16] [^A6z7/2]
+[^F,21/2z5/2] [^A2^c8^a8] ^A6 

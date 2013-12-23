@@ -1,0 +1,79 @@
+X:1
+T:Iris's Theme Rise of the Sinistrals by Yasunori Shiono (v1.0 Prosco)
+M:4/4
+L:1/8
+Q:1/4=136
+K:C % 0 sharps
+x8| \
+[A,A,-][EA,-] [BA,-][cA,-] [gA,-][cA,-] [BA,-][EA,-]| \
+[A,A,-][EA,-] [BA,-][cA,-] [gA,-][cA,-] [BA,-][EA,]| \
+[A,A,-][EA,-] [BA,-][cA,-] [gA,-][cA,-] [BA,-][EA,-]|
+[A,A,-][EA,-] [BA,-][cA,-] [gA,-][cA,-] [BA,-][EA,]| \
+[A-A,A,-][A-EA,-] [BA-A,-][cAA,-] [gA,-][cA,-] [BA,-][EA,-]| \
+[A,A,-][EA,-] [BA,-][cA,-] [gA,-][cA,-] [BG-A,-][GEA,]| \
+[E-G,G,-][E-DG,-] [AE-G,-][BE-G,-] [gE-G,-][BE-G,-] [AE-G,-][E-DG,-]|
+[E-G,G,-][E-DG,-] [AE-G,-][BE-G,-] [gE-G,-][BEG,-] [AG,-][DG,]| \
+[F,F,-][CF,-] [GF,-][AF,-] [gc-F,-][c-AF,-] [c-GF,-][cCF,-]| \
+[B-F,F,-][B-CF,-] [B-GF,-][B-AF,-] [gB-F,-][BAF,-] [GF,-][CF,]| \
+[e-G,G,-][e-DG,-] [e-AG,-][e-BG,-] [ge-G,-][e-BG,-] [e-AG,-][eDG,-]|
+[d-G,G,-][d-DG,-] [d-AG,-][d-BG,-] [gd-G,-][d-BG,-] [d-AG,-][dDG,]| \
+[A-A,A,-][A-EA,-] [BA-A,-][cAA,-] [gA,-][cA,-] [BA,-][EA,-]| \
+[A,A,-][EA,-] [BA,-][cA,-] [gA,-][cA,-] [BG-A,-][GEA,]| \
+[E-G,G,-][E-DG,-] [AE-G,-][BE-G,-] [gE-G,-][BE-G,-] [AE-G,-][E-DG,-]|
+[E-G,G,-][E-DG,-] [AE-G,-][BE-G,-] [gE-G,-][BEG,-] [AG,-][DG,]| \
+[F,F,-][CF,-] [GF,-][AF,-] [gF,-][AF,-] [GF,-][CF,]| \
+[G,G,-][DG,-] [AG,-][BG,-] [gG,-][BG,-] [AG-G,-][GDG,]| \
+[A-A,A,-][A-EA,-] [BA-A,-][cA-A,-] [gA-A,-][cA-A,-] [BA-A,-][A-EA,-]|
+[A-A,A,-][A-EA,-] [BA-A,-][cA-A,-] [gA-A,-][cA-A,-] [BA-A,-][AEA,]| \
+[c-A-A-A-A,A,-][c-A-A-A-EA,-] [c-BA-A-A-A,-][ccA-AAA,-] [ge-A-A,-][e-cA-A,-] [e-BA-A,-][eA-EA,-]| \
+[d-A-A,A,-][d-A-EA,-] [d-BA-A,-][d-cA-A,-] [gd-A-A,-][dcA-A,-] [BA-G-A,-][AGEA,]| \
+[c-G-E-G,G,-][c-G-E-DG,-] [c-AG-E-G,-][c-BG-E-G,-] [gc-G-E-G,-][c-BG-E-G,-] [c-AG-E-G,-][c-G-E-DG,-]|
+[c-G-E-G,G,-][c-G-E-DG,-] [c-AG-E-G,-][c-BG-E-G,-] [gc-G-E-G,-][c-BG-EG,-] [c-AG-G,-][cGDG,]| \
+[F-F,F,-][F-CF,-] [GF-F,-][AF-F,-] [gc-F-F,-][c-AF-F,-] [c-GF-F,-][cF-CF,-]| \
+[d-B-F-F,F,-][d-B-F-CF,-] [d-B-GF-F,-][d-B-AF-F,-] [gd-B-F-F,-][dBAF-F,-] [GF-F,-][FCF,]| \
+[e-c-G-E-G,G,-][e-c-G-E-DG,-] [e-c-AG-E-G,-][e-c-BG-E-G,-] [ge-c-G-E-G,-][e-c-BG-E-G,-] [e-c-AG-E-G,-][ecG-E-DG,-]|
+[d-G-E-G,G,-][d-G-E-DG,-] [d-AG-E-G,-][d-BG-E-G,-] [gd-G-E-G,-][d-BG-E-G,-] [d-AG-E-G,-][dGEDG,]| \
+[A-A,A,-][A-EA,-] [BA-A,-][cAA,-] [ge-A,-][e-cA,-] [e-BA,-][eEA,-]| \
+[d-A,A,-][d-EA,-] [d-BA,-][d-cA,-] [gd-A,-][dcA,-] [BG-A,-][GEA,]| \
+[c-G-E-G,G,-][c-G-E-DG,-] [c-AG-E-G,-][c-BG-E-G,-] [gc-G-E-G,-][c-BG-E-G,-] [c-AG-E-G,-][c-G-E-DG,-]|
+[c-G-E-G,G,-][c-G-E-DG,-] [c-AG-E-G,-][c-BG-E-G,-] [gc-G-E-G,-][c-BG-EG,-] [c-AG-G,-][cGDG,]| \
+[c-F-F,F,-][c-F-CF,-] [c-GF-F,-][c-AF-F,-] [gc-F-F,-][c-AF-F,-] [c-GF-F,-][cFCF,]| \
+[d-G,G,-][dDG,-] [e-c-AG,-][ecBG,-] [gd-G,-][dBG,-] [B-AG-G,-][BGDG,]| \
+[c-A-A,A,-][c-A-EA,-] [c-BA-A,-][c-cA-A,-] [gc-A-A,-][c-cA-A,-] [c-BA-A,-][c-A-EA,-]|
+[c-A-A,A,-][c-A-EA,-] [c-BA-A,-][c-cA-A,-] [gc-A-A,-][c-cA-A,-] [c-BA-A,-][cAEA,]| \
+[A,A,-][EA,-] [BA,-][cA,-] [gA,-][cA,-] [BA,-][EA,-]| \
+[A,A,-][EA,-] [BA,-][cA,-] [gA,-][cA,-] [BA,-][EA,]| \
+[A-A,A,-][A-EA,-] [BA-A,-][cAA,-] [gA,-][cA,-] [BA,-][EA,-]|
+[A,A,-][EA,-] [BA,-][cA,-] [gA,-][cA,-] [BG-A,-][GEA,]| \
+[E-G,G,-][E-DG,-] [AE-G,-][BE-G,-] [gE-G,-][BE-G,-] [AE-G,-][E-DG,-]| \
+[E-G,G,-][E-DG,-] [AE-G,-][BE-G,-] [gE-G,-][BEG,-] [AG,-][DG,]| \
+[F,F,-][CF,-] [GF,-][AF,-] [gc-F,-][c-AF,-] [c-GF,-][cCF,-]|
+[B-F,F,-][B-CF,-] [B-GF,-][B-AF,-] [gB-F,-][BAF,-] [GF,-][CF,]| \
+[e-G,G,-][e-DG,-] [e-AG,-][e-BG,-] [ge-G,-][e-BG,-] [e-AG,-][eDG,-]| \
+[d-G,G,-][d-DG,-] [d-AG,-][d-BG,-] [gd-G,-][d-BG,-] [d-AG,-][dDG,]| \
+[A-A,A,-][A-EA,-] [BA-A,-][cAA,-] [gA,-][cA,-] [BA,-][EA,-]|
+[A,A,-][EA,-] [BA,-][cA,-] [gA,-][cA,-] [BG-A,-][GEA,]| \
+[E-G,G,-][E-DG,-] [AE-G,-][BE-G,-] [gE-G,-][BE-G,-] [AE-G,-][E-DG,-]| \
+[E-G,G,-][E-DG,-] [AE-G,-][BE-G,-] [gE-G,-][BEG,-] [AG,-][DG,]| \
+[F,F,-][CF,-] [GF,-][AF,-] [gF,-][AF,-] [GF,-][CF,]|
+[G,G,-][DG,-] [AG,-][BG,-] [gG,-][BG,-] [AG-G,-][GDG,]| \
+[A-A,A,-][A-EA,-] [BA-A,-][cA-A,-] [gA-A,-][cA-A,-] [BA-A,-][A-EA,-]| \
+[A-A,A,-][A-EA,-] [BA-A,-][cA-A,-] [gA-A,-][cA-A,-] [BA-A,-][AEA,]| \
+[A-A,A,-][A-EA,-] [BA-A,-][cAA,-] [ge-A,-][e-cA,-] [e-BA,-][eEA,-]|
+[d-B-A,A,-][d-B-EA,-] [d-B-BA,-][d-cB-A,-] [gd-B-A,-][dcBA,-] [BG-A,-][GEA,]| \
+[c-G-E-G,G,-][c-G-E-DG,-] [c-AG-E-G,-][c-BG-E-G,-] [gc-G-E-G,-][c-BG-E-G,-] [c-AG-E-G,-][c-G-E-DG,-]| \
+[c-G-E-G,G,-][c-G-E-DG,-] [c-AG-E-G,-][c-BG-E-G,-] [gc-G-E-G,-][c-BG-EG,-] [c-AG-G,-][cGDG,]| \
+[F-F,F,-][F-CF,-] [GF-F,-][AF-F,-] [gc-F-F,-][c-AF-F,-] [c-GF-F,-][cF-CF,-]|
+[d-B-F-F,F,-][d-B-F-CF,-] [d-B-GF-F,-][d-B-AF-F,-] [gd-B-F-F,-][dBAF-F,-] [GF-F,-][FCF,]| \
+[e-c-G-E-G,G,-][e-c-G-E-DG,-] [e-c-AG-E-G,-][e-c-BG-E-G,-] [ge-c-G-E-G,-][e-c-BG-E-G,-] [e-c-AG-E-G,-][ecG-E-DG,-]| \
+[d-G-E-G,G,-][d-G-E-DG,-] [d-AG-E-G,-][d-BG-E-G,-] [gd-G-E-G,-][d-BG-E-G,-] [d-AG-E-G,-][dGEDG,]| \
+[A-A,A,-][A-EA,-] [BA-A,-][cAA,-] [ge-A,-][e-cA,-] [e-BA,-][eEA,-]|
+[d-A,A,-][d-EA,-] [d-BA,-][d-cA,-] [gd-A,-][dcA,-] [BG-A,-][GEA,]| \
+[c-G-E-G,G,-][c-G-E-DG,-] [c-AG-E-G,-][c-BG-E-G,-] [gc-G-E-G,-][c-BG-E-G,-] [c-AG-E-G,-][c-G-E-DG,-]| \
+[c-G-E-G,G,-][c-G-E-DG,-] [c-AG-E-G,-][c-BG-E-G,-] [gc-G-E-G,-][c-BG-EG,-] [c-AG-G,-][cGDG,]| \
+[c-F-F,F,-][c-F-CF,-] [c-GF-F,-][c-AF-F,-] [gc-F-F,-][c-AF-F,-] [c-GF-F,-][cFCF,]|
+[d-G,G,-][dDG,-] [e-c-AG,-][ecBG,-] [gd-G,-][dBG,-] [B-AG-G,-][BGDG,]| \
+[c-A-A,A,-][c-A-EA,-] [c-BA-A,-][c-cA-A,-] [gc-A-A,-][c-cA-A,-] [c-BA-A,-][c-A-EA,-]| \
+[c-A-A,A,-][c-A-EA,-] [c-BA-A,-][c-cA-A,-] [gc-A-A,-][c-cA-A,-] [c-BA-A,-][cAEA,]| \
+[A,A,-][EA,-] [BA,-][cA,-] [gA,-][cA,-] [BA,-][EA,-]|
+[A,A,-][EA,-] [BA,-][cA,-] [gA,-][cA,-] [BA,-][EA,]|

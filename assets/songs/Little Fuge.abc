@@ -1,0 +1,102 @@
+X:1
+T:Little Fugue lute/harp
+C:Bach
+Z:Tiamo
+M:4/4
+L:1/8
+Q:1/4=190
+N:Last note suggests Dorian mode tune
+K:E
+
+F4 c4|A6 G2|F2 A2 G2 F2|=F2 G2 C4|
+^F2 C2 G2 C2|A2 GF G2 C2|F2 CF G2 CG|A2 GF GC cB|
+AG FA GF =FG|^FC FG AB cd|ed ce dc =cd|^c2 G2 c2 d2|
+ef ef g/2f/2g/2f/2 g/2f/2e/2f/2|gf ga gf ed|eg fg =cg fg|^cg fg =cg fg|
+e^c =c^c fc =c^c|gc =c^c fc =c^c|
+G2 e2 F2 d2|E2 G2 c2 e2|
+=d2 g2 z2 =d2|c2 f2 z2 c2|BA Bc Bg fg|Af =f^f G=f ^d=f|
+^f2 C2 F2 G2|AB AB c/2B/2c/2B/2 c/2B/2A/2B/2|cB c=d cB AG|Ac Bc =Fc Bc|
+^Fc Bc =Fc Bc|A^F =F^F BF =F^F|cF =F^F BF =F^F|C2 A2 B,2 G2|
+A,2 C2 FG AF|C4 G4|E6 D2|C2 E2 D2 C2|
+=C2 D2 G,4|^C2 G,2 D2 G,2|
+E2 DC D2 G,2|C2 G,C D2 G,D|
+E2 DC D2 G,2|C2 F,2 G,4|C2 G2 c2 B2|A2 c2 f2 e2|
+=d2 F2 B2 A2|G2 B2 e2 =d2|c4- cf =f^f|B4- BA GB|
+AG FA GF =FG|^FC D=F ^FC FG|AF AB cG cB|A6 G2|
+F2 A2 G2 F2|=F2 G2 C4|^F2 C2 G2 C2|A2 GF G2 C2|
+F2 CF G2 CG|A2 GF GC cB|
+AG FA GF =FG|^FA Bc =dA GF|
+=FG AB cG ^FE|=DF GA BF E=D|CE FG Ac BA|GB c=d ef e=d|
+ce =dc BA GB|AE FG AB AB|c^d cd e/2d/2e/2d/2 e/2d/2c/2d/2|e=d ef e=d cB|
+ce =de Ge =de|Ae =de Ge =de|cA GA =dA GA|eA GA =dA GA|
+AB cA =dc B=d|cB c=d cB Ac|BA Bc BA GB|AG AB AG FA|
+G2 e2 z2 =G2|F2 =d2 z2 F2|
+E2 c2 z2 E2|=DF BA ^GF E=D|
+C=D EF GA BG|AE FG AB AB|
+% DCDB, CDEC DCB,C DEDE |\ % alternate for bar 41
+c^d cd e/2d/2e/2d/2 e/2d/2c/2d/2|ed ef ef e=d|
+% FGFG TG3F/2G/2 AGAB AGF_E |\ % alternate for bar 42
+ce =de Ge =de|Ae =de Ge =de|ca ga =da ga|ea ga =da ga|
+e=d ef2<B2g|ag ab ag fe|=dc =de =dc BA|gf ga gf e=d|
+cB c=d cB AG|fe f=g fe =dc|B^A Bc Bc =dB|e=d cB ^A=g fe|
+=d8-|=dB c=d ef =ge|
+^AB c^A F2 z2|B4 f4|
+=d6 c2|B2 =d2 c2 B2|^A2 c2 F4|B2 F2 c2 F2|
+=d2 cB c2 F2|B2 FB c2 Fc|=d2 cB cF fe|=dc B=d cB ^Ac|
+Bf =df B=d F=A|GB GB EG B,=D|Ce ce Ac EG|FA FA =DF A,C|
+B,=d B=d GB ^DF|=FG =FG C=F G,B,|A,2 ^F2 G,2 =F2|^F2 c2 =F2 c2|
+^FA GF cG CB|Ac BA eB E=d|
+ce =dc fc Fe|^df ed ^gd Gf|
+=f=d cB Ac Gc|F=g ^fe fe =dc|=d4 ^g4-|[g4c4] f4-|
+[f2-B2] f2 =f4|F,A, CF =F^F D=F|^F6 =F2|^F4 G2 C2|
+C^f =f^d cB AG|Ac Bc =Fc Bc|^Fc Bc =Fc Bc|A^F =F^F BF =F^F|
+cF =F^F BF =F^F|A2 ^f2 G2 =f2|[^f8-^A8-C8-F,8-]|[f8^A8C8F,8]|
+
+X:2
+T:Little Fugue Viola
+C:Bach
+Z:Tiamo
+M:4/4
+L:1/8
+Q:1/4=190
+K:E
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|c4 g4|e6 d2|
+c2 e2 d2 c2|=c2 d2 G4|^c2 G2 d2 G2|e2 dc d2 G2|
+c2 Gc d2 Gd|e2 dc dG gf|
+ed ce dc =cd|^cG cd ef g^a|
+b=a bc ba gb|ag ab ag fa|g2 f2 =f2 c2|F4 c4|
+=A6 G2|F2 A2 G2 F2|=F2 G2 C4|^F2 C2 G2 C2|
+A2 GF G2 C2|F2 CF G2 CG|A2 GF GC cB|AG FA GF =FG|
+^FC FG AB cd|ed ce dc =cd|^c2 G2 c2 d2|e^f ef g/2f/2g/2f/2 g/2f/2e/2f/2|
+gf ga gf ed|eg fg =cg fg|
+^cg fg =cg fg|e^c =c^c fc =c^c|
+gc =c^c fc =c^c|e2 dc c/2=c/2^c/2=c/2 ^c/2=c/2^c|cB cd cB AG|FE FG FE =DC|
+BA Bc BA GF|E=D EF E=D CB,|AA Bc =d4-|=dG AB c4|
+F4 c4|A6 G2|FA GF =F^F ^D=F|^FC D=F ^FC FG|
+AB AB c/2B/2c/2B/2 c/2B/2A/2B/2|cB c=d cB AG|Ac Bc =Fc Bc|^Fc Bc =Fc Bc|
+A^F =F^F BF =F^F|cF =F^F BF =F^F|
+F2 A2 BA GB|A4- Ac BA|
+G4- GB AG|F4- FA GF|E6 D2|E2 =d2 c2 B2|
+A4 e4|c6 B2|A2 c2 B2 A2|G2 B2 E4|
+A2 E2 B2 E2|c2 BA B2 E2|A2 EA B2 EB|c2 BA BE e=d|
+cB Ac BA GB|A2 f2 z2 F2|G2 e2 z2 E2|F2 e2 B2 ^d2|
+e=d ef e=d ce|=dc =de =dc B=d|
+cB c=d cB Ac|BA Bc BA GB|
+A4 e4|c6 B2|A2 c2 B2 A2|G2 B2 E4|
+A2 E2 B2 E2|c2 BA B2 E2|A2 EA B2 EB|c2 BA B2 E2|
+c2 =d2 e2 E2|A2 e2 a2 g2|f2 F2 B2 A2|G2 B2 g2 f2|
+e2 E2 A2 G2|F2 A2 f2 e2|=d2 =D2 =G2 F2|E4 F4-|
+FF ^G^A Bc =dB|=G2 B2 =g2
+e2-|e4- ee =dc|=dc B=d cB ^Ac|
+BF Bc =de =de|f=d Bf =ge f=g|c=d cB ^Af ef|=df ef ^Af ef|
+Bf ef ^Af ef|=db ^ab eb ^ab|fb ^ab f^a ^g^a|B2 =d2 e2 f2|
+B2 f2 =d2 B2|e2 b2 g2 e2|=a2 e2 c2 =A2|a2 a2 f2 =d2|
+g2 =d2 B2 ^G2|g2 g2 =f2 c2|FA GF cG CB|^fa gf cg cb|
+a4 =f4|^f4 g4|
+a4 ^a4|b4 =c'4|
+^c4 ^d2 =f2|^f4 g2 =a2|bf e=d bg eg|Ae =dc af =df|
+G=d cB g=f c=f|F4 c4|A6 G2|F2 A2 G2 F2|
+=F2 G2 C4|^F2 C2 G2 C2|A2 GF G2 C2|F2 CF G2 CG|
+A2 GF G2 C2|F2 =d2 B2 c2|[^a8-c8-F8-]|[^a8c8F8]|

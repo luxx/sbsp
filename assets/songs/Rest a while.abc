@@ -1,0 +1,38 @@
+X: 1
+T: 16restawhile (0:54)
+Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: 16restawhile.mid
+%  Transpose: -3
+L: 1/4
+Q: 90
+K: C
+
+z4 [d/4D/4] z/4 [d/4D/4] z/4 [d/2B/2g/2G,/2G/2] z/2 [d/4D/4] z/4
+[d/4D/4] z/4 [d/2D/2] z/2 [d/4D/4] z/4 [d/4D/4] z/4
+[g/2d/2B/2G/2G,/2] z/2 [d/4D/4] z/4 [d/4D/4] z/4 [d/2D/2D,/2A/2c/2]
+[A/2^F/2D/2D,/2] [BGDG,] [B/2G/2D/2F,/2] [B5/4^G5/4E5/4E,5/4] z/4
+[B/2^G/2E/2E,/2] [B/2^G/2E/2E,/2] [cAEA,] [d/2^G/2E/2B,/2]
+[e5/4A5/4E5/4C5/4] z/4 [e/2^A/2=G/2^C/2] [e/2^A/2G/2^C/2] [dBGD]
+[BGE] [^c=AGA,] [^c/2B/2G/2A,/2] [^c/2A/2G/2A,/2] [=c5/2A5/2^FD]
+[G/2^D/2] [G/2^D/2] [=D3/4^F3/4] z/4 [c/2A/2D/2D,/2] [A/2^F/2D/2D,/2]
+[BGDG,] [B/2G/2D/2] [d5/4B5/4G5/4=F5/4] z/4 [d/2B/2G/2F/2]
+[d/2B/2G/2F/2] [cGE] [c5/8A5/8G5/8E5/8] [^c11/8^A11/8G11/8^D11/8]
+z3/8 [^c/2^A/2G/2^D/2] [^c/2^A/2G/2^D/2] [d/2B/2G/2=D/2]
+[d/2B/2G/2D/2] [BGE] [^c=AGA,] [=cA^FD] [BGDG,] [d/2D/2] [d/2D/2]
+[d/2D/2] z/2 [a/2^f/2cD/2A/2D,/2] [^f/2d/2A/2^F/2D/2D,/2]
+[d/2Bg3/4G,GD] d/2 [B/2d/2g/2F,G/2D/2] [^gdB5/4^G5/4E5/4E,/2] [E,z/2]
+[^d3/4z/2] [e3/4=d/2B/2^G/2E/2E,/2] [^g3/4B/2^G/2E/2E,/2]
+[a3/4cA,AEz/2] e/2 [^g3/4d/2e/2B,3/4^G/2E/2]
+[a3/2e3/2c3/2=C3/2A5/4E5/4] z/4 [^a=ge/2^C/2^A/2=G/2]
+[e/2^A/2G/2^C/2] [bgdDBG] [BbgEG] [^cg=aA,=AG] [^cgb3/4A,B3/4z/2]
+[a/2A/2] [a/2^f/2=c5/2D,DA5/2] [a/2c'/2^f/2] [a/2g/2c'/2^D/2^D,G/2]
+[g/2a/2c'/2G/2^D/2] [a^fc'=D,=D^F3/4] z/4 [a3/4^f/2D/2cA/2D,/2]
+[^f/2d/2A/2^F/2D/2D,/2] [gdBGG,D] [g/2d/2B/2G,/2G/2D/2]
+[g13/8d13/8B13/8=F13/8F,13/8G11/8] z/4 [B/2d/2g7/8F/2F,9/8G/2]
+[d5/8B5/8G5/8F5/8] [g9/8e9/8c9/8E9/8E,9/8G9/8]
+[g5/8c5/8A5/8E5/8E,5/8G5/8] [g3/2^c3/2^A3/2^D,3/2^D3/2G3/2] z3/8
+[g5/4^c3/2^A3/2^D3/2^D,5/4G5/4] [g11/8d5/8B5/8=D5/8=D,11/8G5/8]
+[d3/4B3/4G3/4D3/4] [g5/4d5/4B5/4D5/4D,5/4G5/4]
+[g5/4a5/4^c5/4A,5/4=A5/4G5/4] [^f5/4a5/4=c5/4D5/4D,5/4A5/4]
+[g3/4d3/4B3/4G,23/8G27/4D11/8] [B6d5/8g5/8b5/8] [d3/4g3/4b3/4D43/8]
+[b3/4d3/4g3/4] [g21/8b21/8d21/8G,31/8] 

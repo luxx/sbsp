@@ -1,0 +1,29 @@
+X: 1
+T: 1 04 Anxious Heart (1:46)
+Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: 1_04_Anxious_Heart.mid
+%  Transpose: -15
+L: 1/4
+Q: 70
+K: C
+
+[d4F4A,4D,8] [B4^F4B,4] [d3=F3A,4D,8] [eE] [B4D4B,4] [c4E8A,4C,4F,4]
+[A4^C,4A,4] [c3E3A,4=C,4F,4] [dF] [A8E8D,2A,21/4] [^C,6z13/4] A,11/4
+[A,4F,4D,4z/2] D/2 F/2 [G/2E/2] [A/2F] G/2 [c/2A] B/2
+[B,4^F,4d3/2^F3/2] B ^F D/2 [A,4=F,4D,4A/2D3/2] d/2 f/2 [g/2e/2]
+[a/2f] g/2 [c'/2a] b/2 [B,4^F,4d/2^f3/2] ^c/2 b/2 ^f/2 d/2 ^c/2 B/2
+^F/2 [D7A,4=F,4D,4d2z/2] E/2 =F/2 A/2 [d13/8z/2] e/2 =f/2 [a/2z/8]
+^c/4 =c/8 [B,4^F,4b/2B2] ^f/2 d/2 ^c/2 [B3/2z/2] ^F/2 [Dz/2] ^C/2
+[D7A,4=F,4D,4d2z/2] E/2 =F/2 A/2 [dz/2] e/2 [=f/2e3/4] [a/2z/4] d/8
+[^c/8=c/8] [B,4^F,4b/2B2] ^f/2 d/2 ^c/2 [B3/2z/2] ^F/2 [Dz/2] ^C/2
+[=C3/2A,=F,4=C,4=c7/2z/2] G,/2 [A,3z/2] [C5/2z/2] =F/2 G/2 A/2 c/2
+[^C2E,7/2A,3^c/2A] B/2 [A5/2z/2] E/2 [^C2z/2] B,/2 [A,z/2] E,/2
+[=C3/2A,F,4C,4=c3z/2] G,/2 [A,3z/2] [C5/2z/2] F/2 G/2 [A/2d3/4]
+[c3/8z/4] ^c/8 [=c/8B/8] [^C2E,4A,4^c/2A] B/2 [A5/2z/2] E/2 ^C2
+[a4A5/2D4z/2] [d5/2z/2] [e5/2z/2] [^f5/2z] [A3/2z/2] [dz/2] e/2
+[^f4G4=C4z/2] [e7/2z/2] [=c3z/2] c'5/2 [a4A4D4z/2] [d2z/2] [e2z/2]
+[^f2z] [d3/2z/2] [ez/2] ^f/2 [g4F4^A,4z/2] [=f7/2z/2] [d3z/2] ^A5/2
+[a4=A5/2D4z/2] [d5/2z/2] [e5/2z/2] [^f5/2z] [A3/2z/2] [dz/2] e/2
+[^f4G4C4z/2] [e7/2z/2] [c3z/2] c'5/2 [=A,/2D,7] [A,7z/2] [CF,cFD2]
+[B,E,BE] [D5G,dG] [C4F,4c4F4z3] [D,z/2] A,/2 [A,/2D,8] [A,15/2z/2]
+[CF,cFD2] [B,E,BE] [D5G,dG] [C4F,4c4F4] 

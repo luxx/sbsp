@@ -1,0 +1,30 @@
+X: 1
+T: Requiem/Trans-Siberian Orchestra- Cyrano of Meneldor
+M:4/4
+L:1/8
+Q:1/4=160
+K:C
+[E3/2B,3/2E,3/2][E-B,-E,-][E/2E/2B,/2B,/2E,/2E,/2][EB,E,] [C4-G,4-C,4-]|[C8-G,8-C,8-]|[C8G,8C,8]|[D3/2A,3/2D,3/2][D-A,-D,-][D/2D/2A,/2A,/2D,/2D,/2][DA,D,] [B4-^F4-B,4-]|
+[B8-^F8-B,8-]|[B8-^F8-B,8-]|[B4^F4B,4] A,B, CB,|CD CB, ED CB,|
+CD CB, A,B, CB,|CD CB, ED CB,|CD CB, A,B, CB,|CD CB, ED CB,|
+CD CB, A,B, CB,|CD CB, ED CB,|C[eD] [eC][eB,] [c-A,][c-B,] [c-C][c-B,]|[c-C][c-D] [c-C][c-B,] [c-E][c-D] [c-C][c-B,]|
+[cC][dD] [dC][dB,] [B-A,][B-B,] [B-C][B-B,]|[B-C][B-D] [B-C][B-B,] [B-E][B-D] [B-C][B-B,]|[B-C][B-D] [B-C][BB,] [A,3A,3][E,E,-]|[E,2E,2] [B,3B,3][E,3E,3]|
+[C2C2] [E,2E,2] [D3D3][E,E,-]|[E,2E,2] [EE][FF] [EE][DD] [CC][DD]|[CC][B,B,] [A,3A,3][E,3E,3]|[B,3B,3][E,3E,3] [C2C2]|
+[E,2E,2] [D3D3][E,3E,3]|[EE][FF] [EE][DD] [CC][DD] [CC][B,B,]|A,B, CB, CD CB,|ED CB, CD CB,|
+A,B, CB, CD CB,|ED CB, C[eD] [eC][eB,]|[c-A,][c-B,] [c-C][c-B,] [c-C][c-D] [c-C][c-B,]|[c-E][c-D] [c-C][c-B,] [cC][dD] [dC][dB,]|
+[B-A,][B-B,] [B-C][B-B,] [B-C][B-D] [B-C][BB,]|[G-E][G-D] [G-C][GB,] [B-C][B-D] [B-C][BB,]|[A-A,][A-B,] [A-C][A-B,] [A-C][A-D] [A-C][A-B,]|[A-E][A-D] [A-C][A-B,] [A-C][A-D] [A-C][AB,]|
+A,B, CB, CD CB,|ED CB, C[eD] [eC][eB,]|[c-A,][c-B,] [c-C][c-B,] [c-C][c-D] [c-C][c-B,]|[c-E][c-D] [c-C][c-B,] [cC][dD] [dC][dB,]|
+[B-A,][B-B,] [B-C][B-B,] [B-C][B-D] [B-C][BB,]|[G-E][G-D] [G-C][GB,] [B-C][B-D] [B-C][BB,]|A,/2B,/2C CC C/2B,/2A, A,A,|A,/2B,/2C CC C/2B,/2A, A,A,|
+B,/2C/2D DD D/2C/2B, B,B,|B,/2C/2D DD D/2C/2B, B,B,|C/2D/2E EE E/2D/2C CC|C/2D/2E EE E/2D/2C CC|
+D/2E/2F FF F/2E/2D DD|D/2E/2F FF F/2E/2D DD|E/2F/2B BB B/2F/2E EE|E/2F/2c cc c/2F/2E EE|
+[c'3e3][c'e] [c'2e2] [c'2e2]|[c'2f2] [b2f2] [c'4e4]|[c'3e3][c'e] [c'2e2] [c'2e2]|[c'2f2] [b2f2] A,/2B,/2C CC|
+C/2B,/2A, A,A, A,/2B,/2C CC|C/2B,/2A, A,A, [c'3e3][c'e]|[c'2e2] [c'2e2] [c'2f2] [b2f2]|[c'4e4] [c'3e3][c'e]|
+[c'2e2] [c'2e2] [c'2f2] [b2f2]|A,/2B,/2C CC C/2B,/2A, A,A,|A,/2B,/2C CC C/2B,/2A, A,A,|B,/2C/2D DD D/2C/2B, B,B,|
+B,/2C/2D DD D/2C/2B, B,B,|C/2D/2E EE E/2D/2C CC|C/2D/2E EE E/2D/2C CC|D/2E/2F FF F/2E/2D DD|
+D/2E/2F FF F/2E/2D DD|E/2F/2B BB B/2F/2E EE|E/2F/2c cc c/2F/2E EE|E/2F/2B BB B/2F/2E EE|
+A,B, CB, CD CB,|ED CB, CD CB,|A,B, CB, CD CB,|ED CB, C[eD] [eC][eB,]|
+[c-A,][c-B,] [c-C][c-B,] [c-C][c-D] [c-C][c-B,]|[c-E][c-D] [c-C][c-B,] [cC][dD] [dC][dB,]|[B-A,][B-B,] [B-C][B-B,] [B-C][B-D] [B-C][BB,]|[G-E][G-D] [G-C][GB,] [B-C][B-D] [B-C][BB,]|
+[A,3A,3][E,3E,3] [B,2B,2-]|[B,B,][E,3E,3] [C2C2] [E,2E,2]|[D3D3][E,3E,3] [EE][FF]|[EE][DD] [CC][DD] [CC][B,B,] [A,2A,2-]|
+[A,A,][E,3E,3] [B,3B,3][E,E,-]|[E,2E,2] [C2C2] [E,2E,2] [D2D2]|[DD][E,3E,3] [EE][FF] [EE][DD]|[CC][DD] [CC][B,B,] EF ED|
+CD CB,4-B,-|B,4 [E3/2E3/2B,3/2B,3/2E,3/2E,3/2][EE-B,B,-E,E,-][E/2E/2E/2E/2-B,/2B,/2B,/2B,/2-E,/2E,/2E,/2E,/2-][EEB,B,E,E,]|[C8C8-G,8G,8-C,8C,8-]|[C8C8-G,8G,8-C,8C,8-]|
+[C4C4G,4G,4C,4C,4] [D3/2D3/2A,3/2A,3/2D,3/2D,3/2][DD-A,A,-D,D,-][D/2D/2D/2D/2-A,/2A,/2A,/2A,/2-D,/2D,/2D,/2D,/2-][DDA,A,D,D,]|[B8B8-^F8^F8-B,8B,8-]|[B8B8-^F8^F8-B,8B,8-]|[B8B8^F8^F8B,8B,8]|

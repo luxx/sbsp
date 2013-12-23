@@ -1,0 +1,55 @@
+X:1
+T: Blink 182 - All the Small Things (v1.0 Prosco)
+M: 4/4
+L: 1/8
+Q:1/4=152
+K:C % 0 sharps
+cc cc [E-c][Ec] [C-c][Cc]| \
+G,G, G,G, [B,-G,][B,G,] [C-G,][CG,]| \
+F,F, F,F, [E-F,][EF,] [C-F,][CF,]|
+G,G, G,G, [B,-G,][B,G,] [C-G,][CG,]| \
+cc cc [E-c][Ec] [C-c][Cc]| \
+G,G, G,G, [B,-G,][B,G,] [C-G,][CG,]| \
+F,F, F,F, [E-F,][EF,] [C-F,][CF,]|
+G,G, G,G, [B,-G,][B,G,] [C-G,][CG,]| \
+cc cc [E-c][Ec] [F-c][Fc]| \
+G,G, G,G, [E-G,][EG,] [C-G,][CG,]| \
+F,F, F,F, [E-F,][EF,] [C-F,][CF,]|
+G,G, [G,-G,][G,G,] [B,-G,][B,G,] [C-G,][CG,]| \
+cc cc [E-c][Ec] [C-c][Cc]| \
+G,G, G,G, [B,-G,][B,G,] [C-G,][CG,]| \
+F,F, F,F, [E-F,][EF,] [C-F,][CF,]|
+G,G, [G,-G,][G,G,] [B,-G,][B,G,] [C-G,][CG,]| \
+cc cc [Ec][Ec] [E-c][Ec]| \
+[E-c][Ec] cc [Ec][Fc] [E-c][Ec]| \
+[D-G,][DG,] G,G, [DG,][EG,] [D-G,][DG,]|
+[C-F,][CF,] F,F, [FF,][FF,] [F-F,][FF,]| \
+[C-c][E-C-c] [ECc][Ec] [E-c][Ec] [Ec][E-c]| \
+[Ec][Cc] [C-c][Cc] [C-c][Cc] [C-c][Cc]| \
+[DG,][D-G,] [DG,][DG,] [D-G,][DG,] [DG,][F-G,]|
+[FF,][CF,] [C-F,][CF,] [C-F,][CF,] [C-F,][CF,]| \
+[Ec][E-c] [Ec][Ec] [E-c][Ec] [Ec][E-c]| \
+[Ec][Cc] [C-c][Cc] [C-c][Cc] [C-c][Cc]| \
+[DG,][D-G,] [DG,][DG,] [D-G,][DG,] [DG,][F-G,]|
+[FF,][CF,] [C-F,][CF,] [C-F,][CF,] [C-F,][CF,]| \
+F,F, F,F, F,F, F,F,|
+G,G, G,G, G,G, G,G,| \
+cc cc [Ec][Ec] [E-c][Ec]| \
+[E-c][Ec] cc [Ec][Fc] [E-c][Ec]| \
+[D-G,][DG,] G,G, [DG,][EG,] [D-G,][DG,]|
+[C-F,][CF,] F,F, [FF,][FF,] [F-F,][FF,]| \
+[C-c][Cc] cc [Ec][Ec] [E-c][Ec]| \
+[E-c][Ec] cc [Ec][Fc] [E-c][Ec]| \
+[D-G,][DG,] G,G, [DG,][EG,] [D-G,][DG,]|
+[C-F,][CF,] F,F, [FF,][FF,] [F-F,][FF,]| \
+[C-c][Cc] [Ec][ECc] [EC-c][ECc] [E-Cc][EC-c]| \
+[E-Cc][ECG,c] [C-G,-c][CG,c] [EC-G,-c][FCG,c] [E-C-G,-c][ECG,c]| \
+[D-B,G,][DB,-G,] [B,G,][DB,G,] [DB,-G,][EB,G,] [D-B,G,][F-DC-G,]|
+[FC-CF,][CCA,F,] [C-A,-F,][CA,F,] [FC-A,-F,][FCA,F,] [F-C-G,-F,][FCG,F,]| \
+[EC-c][E-Cc] [Ec][ECc] [EC-c][ECc] [E-Cc][EC-c]| \
+[E-Cc][ECG,c] [C-G,-c][CG,c] [EC-G,-c][FCG,c] [E-C-G,-c][ECG,c]| \
+[D-B,G,][DB,-G,] [B,G,][B,G,] [DB,-G,][EB,G,] [D-B,G,][F-DG,]|
+[FC-F,][CA,F,] [A,-F,][A,F,] [DC-A,-F,][ECA,F,] [D-CA,F,][DCA,F,]| \
+[C-A,F,][CA,F,] [A,-F,][A,F,] [FC-A,-F,][FCA,F,] [E-CA,F,][ECA,F,]| \
+[C8-G,8-c8-]|[C8-G,8-c8-]|
+[C8-G,8-c8-]|[C6-G,6-c6-] [CG,c]

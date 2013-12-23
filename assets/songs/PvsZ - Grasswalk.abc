@@ -1,0 +1,62 @@
+X: 1
+T: Grasswalk (2:19)
+Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Grasswalk.mid
+%  Transpose: 0
+L: 1/4
+Q: 116
+K: C
+
+A,/4 z3/4 [^d/4E/4] z/4 [e/4A/4] z/4 a/4 z3/4 E,7/8 z/8 A,/4 z3/4
+[^d/4E/4] z/4 [e/4A/4] z/4 g/4 z/4 ^f/4 z/4 [=f/4E,] z/4 e/4 z/4
+[a/2^d4F,3/4] ^g/4 z/4 [e/4C] z/4 =g/4 z/4 [^f/4F] z/4 =d/4 z/4
+[=f/4C,] z/4 e/4 z/4 [c3/4c'3/4F,F] z5/4 F,/2 ^F,/2 G,/2 ^G,/2
+[e3/2A,3/4] z/4 [^d/2E/2] [e5/2A/2] a/2 z/2 E, [c'4A,3/4] z/4
+[^d/2E/2] [e/2A/2] g/2 ^f/2 [=f/2E,] e/2 [a/2^d4=F,3/4] ^g/2 [e/2C]
+=g/2 [^f/2F] =d/2 [=f/2C,] e/2 [c3/4c'3/4F,F] z7/4 F,/2 E,/2 ^D,/2
+[d3F4=D,3/4] z/4 A, D [e/2D,] f/2 [e^G4E,] [BB,] [eE/2] D/2 [dC/2]
+B,/2 [c2e2a2c'2A,2C2] [e2g2c'2=G,2E2=G2] [a2d2^f2A,^F] D D, [D/4A/4]
+z3/4 [a/2F,] ^g/2 a/2 [b/2C/2] [c'3/4=F3/4] z/4 C,7/8 z/8 [a/2D,]
+^g/2 a/2 [b/2A,/2] [c'D7/8] z/8 [d7/8D,9/8] z/4
+[e15/8E,15/8B,15/8E15/8z/8] [^g7/4z/8] b13/8 [^g2E2B2e3/8z/8]
+[b15/8z/4] e13/8 [b2^g/4z/8] [e15/8z/8] ^g7/4 b3/4 z/4 e3/4 z/4 [aA,]
+[c/2E,E] b/2 [c'/2A,A] e/2 [c'/2E,] b/2 z/8 [a3/4A,7/8] z/8 [c/2E,E]
+b/2 [c'5/8A,A] d3/8 [c'/2E,] b/2 [a3/4F,] z/4 [c/2C,C] b/2 [c'/2F,F]
+e/2 [c'5/8C,9/8] b/2 [a13/8F,15/8z3/8] [A/2C/2] [c/2F/2] [=f/2C/2]
+[b2G,2z/2] [B/2D/2] [d/2F/2] [=g/2D/2] [aA,] [c/2E,E] b/2 [c'/2A,A]
+e/2 [c'/2E,] b/2 [a7/8A,] z/8 [c/2E,E] b/2 [c'/2A,A] d/2 [c'/2E,] b/2
+[a3/4F,] z/4 [c/2C,C] b/2 [c'/2F,F] e/2 [c'/2C,] b/2 z/8
+[a15/8F,15/8z3/8] [A/2C/2] [c/2F/2] [f/2C/2] [g17/8G,17/8z/2]
+[B5/8D5/8] [d/2F/2] [f/2D/2] [a39/8A,7/8] [^g/2E] e/2 [=gA] [^f3/4E,]
+z/4 [eA,] z E,/2 F,/2 ^F,5/8 G,3/8 z/8 [a7/8A,7/8] ^g/2 [e/2E/2]
+[=gA] [^fE,] [e3/4A,] z5/4 E,/2 =F,/2 ^F,/2 G,/2 [AA,] [ce] [EE,]
+[ce] [AA,/2] ^G,/2 [ceA,/2] C/2 [EE,3/4] z/4 [ce] [AA,/2] ^G,/2
+[ceA,/2] B,/2 [gC3/4] z/4 [ceE] [FD] [BdC] [EB,] [Be] [AA,] [ce]
+[B=G,] [dg] [cC/2] B,/2 [egC/2] E/2 [=fF3/4] z/4 [df] [AE] [ceC/2]
+A,/2 [EB,] [^GBC] [AA,] [ce] [e/2E] d/2 c/2 B/2 [AaA,] [c'ce] [EeE,]
+[ce] [AaA,/2] ^G,/2 [cec'A,/2] C3/8 z/8 [EeE,] [ce] z/8 [c'15/4AA,/2]
+^G,/2 [c7/8e7/8A,3/8] B,/2 [g7/8C3/4] z/8 [ceE] z/8 [dDF] [c'=G,C]
+[bE,B,E] [Be] [AaA,] [ce] [BbG,] [dg] [c'cC/2] B,/2 [egC/2] E/2
+[dfF3/4] z/4 [fd] [eE] [c'/2C/2] [a/2A,/2] [^GBeB,] [EC] [AA,3/4] z/4
+[ce] [e/2E/2] [d/2D/2] [c/2c'/2C/2] [B3/8b3/8B,3/8] z/8 [eA,A]
+[a/2ce] c'/2 [eE,E] [fce] [eA,/2A/2] ^G,/2 [ceA,/2] [c'/2C/2]
+[a7/4E,3/4E3/4] z/8 [c7/8e7/8] z/4 [a3/8A,3/8A3/8] [^g5/8^G,5/8]
+[e3/4c'3/4A,/2] B,/2 [=g/2C7/8c7/8] e/2 [c7/8e7/8c'7/8E] z/8 [d/2DF]
+a/2 [d/2CB] c'/2 [b15/8B,E] [Be] [A/2^d/2A,] e/2 [a7/8ce] z/8 [Bg=G,]
+[fD=G] [ceC/2] B,/2 [eaC/2] E/2 [fc'F3/4] z/4 [=d7/8f7/8] z/8 [eEA]
+[c/2e/2c'/2C/2] [a3/8A,/2] z/8 E,/8 ^G,/8 B,/8 D/8 E/8 ^G/8 B/8 d/8
+e/8 ^g/8 b/8 d/8 e/8 ^g/8 b/8 d/8 [e3/2A4z/2] c'/2 a/2 e/2 [e3/2z/2]
+c'/2 a/2 e/2 [f3/2A4z/2] d/2 a/2 f/2 [f3/2z/2] d/2 a/2 f/2
+[e3/2A4z/2] c'/2 a/2 e/2 [e3/2z/2] c'/2 a/2 e/2 [f3/2A4z/2] d/2 a/2
+f/2 [f3/2z/2] d/2 a/2 f/2 [e/2A,4] c'/2 a/2 e3/8 z/8 e/2 c'/2 a/2 e/2
+[f/2B,31/8] d/2 a/2 f/2 f/2 d/2 a3/8 f3/8 z/4 [e/2C,31/8C31/8] c'/2
+a/2 e3/8 z/8 e/2 c'3/8 a/2 e3/8 z/4 [f/2D,31/8D31/8] d/2 a/2 f3/8 z/8
+f/2 d/2 a/2 f3/8 z/8 [e3/2A4az/2] c'/2 [a2z/2] e/2 [e3/2z/2] c'/2
+[az/2] e/2 [f3/2B7/2az/2] d/2 [a2z/2] f/2 [f3/2z/2] d/2 a/2
+[f3/8c'3/8] z/8 [e3/2C31/8c31/8z/2] c'/2 a/2 e/2 [e3/2z/2] c'/2 a/2
+e3/8 z/8 [f/2aD31/8d/2] [d2z/2] [a2z/2] f3/8 z/8 f/2 [d11/8z/2]
+[a3/4z/2] f3/8 z/8 [e3/2A31/8az/2] c'/2 [a2z/2] e/2 [e3/2z/2] c'/2
+[a7/8z/2] e3/8 z/8 [f3/2B7/2az/2] d/2 [a2z/2] f/2 [f3/2z/2] d/2 a/2
+[f3/8c'3/8] z/8 [e3/2C31/8c31/8z/2] c'/2 a/2 e/2 [e3/2z/2] c'/2 a/2
+e3/8 z/8 [f/2aD31/8d/2] [d2z/2] [a2z/2] f3/8 z/8 f/2 [d11/8z/2]
+[a3/4z/2] f3/8 

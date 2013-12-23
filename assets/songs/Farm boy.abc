@@ -1,0 +1,68 @@
+X: 1
+T: 2 05 Farm Boy (1:19)
+Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: 2_05_Farm_Boy.mid
+%  Transpose: -12
+L: 1/4
+Q: 110
+K: C
+
+[^FED,2z/2] [E,/2A,] [A2D^F,/2^F] [G,/2A,] [D,^FDz/2] A,/2 [EDCC,3z/2]
+[G,z/2] [A2CB,/2E] [A,/2G,/2] [G,/2EC] G,/2 [DA,^F,G,/2] G,/2
+[GB,G,/2] [G,z/2] [G2B,/2] [B,3/2G,/2] [A,/2G,/2] [G,z/2] [^F,/2GB,]
+[A,/2G,/2] [G,/2GB,] G,/2 [^FED,2z/2] [E,/2A,] [A2D^F,/2^F] [G,/2A,]
+[D,^FDz/2] A,/2 [EDCC,3z/2] [G,z/2] [A2CB,/2E] [A,/2G,/2] [G,/2EC]
+G,/2 [DA,^F,G,/2] G,/2 [GB,G,/2] [G,z/2] [G2B,2z/2] G,/2 G,/2 [G,z/2]
+[GB,z/2] [G,z/2] [DGB,z/2] G,/2 [GG,/2] [G,z/2] [GB,z/2] [G,z/2]
+[AG2B,2z/2] [G,z/2] [B=F,3z/2] [G,z/2] [GB,z/2] [G,z/2] [GB,z/2]
+[D/2G,/2] [cC,3z/2] [G,z/2] [BECz/2] [G,z/2] [GECB,z/2] G,/2
+[A3/2A,3z/2] [G,z/2] [E^Cz/2] [A/2G,] [G/2E^C] [A/2G,/2] [BG,/2]
+[G,z/2] [cGB,z/2] [G,z/2] [dGB,z/2] [G,/2D,/2] [G3/2E,3z/2] [G,z/2]
+[EB,z/2] [G/2G,] [A/2EB,] [B/2G,/2] [AA,/2] [A,z/2] [BE=Cz/2] [A,z/2]
+[cECB,/2] [A,/2C,/2] [^FD,3z/2] [A,z/2] [^F/2C] [^F/2A,/2]
+[E/2^F/2CA,/2] [^F/2A,/2] [GG,/2] [G,z/2] [GB,z/2] [G,z/2]
+[AG2B,2z/2] [G,z/2] [B3/2F,3z/2] [G,z/2] [GB,z/2] [B/2G,] [GB,z/2]
+[D/2G,/2] [EC,3z/2] [G,z/2] [ECz/2] [G/2G,] [GECB,z/2] G,/2
+[A3/2A,3z/2] [G,z/2] [E^Cz/2] [A/2G,] [G/2E^C] [A/2G,/2] [BG,/2]
+[G,z/2] [GB,z/2] [G,z/2] [DGB,z/2] G,/2 [EC,3z/2] [G,z/2] [E/2=C]
+[E/2G,] [D/2E/2CD,] [E/2G,/2] [GG,/2] [G,z/2] [GB,z/2] [G,z/2]
+[G2B,2D,z/2] G,/2 G,/2 [G,z/2] [GB,z/2] [G,z/2] [GB,z/2] G,/2
+[d/8g/8G,/2] [d/4g/4] [d/8g/8] [d/8g/8G,] [d/4g/4] [d/8g/8]
+[Bd/8g/8GB,] [d/4g/4] [d/8g/8] [d/8g/8G,] [d/4g/4] [d/8g/8]
+[G2d/8g/8B,2] [d/4g/4] [d/8g/8] [d/8g/8G,] [d/4g/4] [d/8g/8]
+[=Fd/8b/8F,3] [d/4b/4] [d/8b/8] [d/8b/8G,] [d/4b/4] [d/8b/8]
+[e3/2d/8b/8GB,] [d/4b/4] [d/8b/8] [d/8b/8G,] [d/4b/4] [d/8b/8]
+[d/8b/8GB,] [d/4b/4] [d/8b/8] [d/8b/8G,/2] [d/4b/4] [d/8b/8]
+[c6e/8c'/8C,3] [e/4c'/4] [e/8c'/8] [e/8c'/8G,] [e/4c'/4] [e/8c'/8]
+[e/8c'/8EC] [e/4c'/4] [e/8c'/8] [e/8c'/8G,/2] [e/4c'/4] [e/8c'/8]
+[e/8c'/8E2C2G,/2] [e/4c'/4] [e/8c'/8] [e/8c'/8G,] [e/4c'/4] [e/8c'/8]
+[e/8c'/8C,3] [e/4c'/4] [e/8c'/8] [e/8c'/8G,] [e/4c'/4] [e/8c'/8]
+[e/8c'/8EC] [e/4c'/4] [e/8c'/8] [e/8c'/8G,] [e/4c'/4] [e/8c'/8]
+[e/8c'/8ECB,] [e/4c'/4] [e/8c'/8] [e/8c'/8G,/2] [e/4c'/4] [e/8c'/8]
+[c/8g/8A,3] [c/4g/4] [c/8g/8] [c/8g/8C] [c/4g/4] [c/8g/8] [Gc/8g/8^D]
+[c/4g/4] [c/8g/8] [c/8g/8C] [c/4g/4] [c/8g/8] [^Dc/8g/8G] [c/4g/4]
+[c/8g/8] [c/8g/8C/2] [c/4g/4] [c/8g/8] [=Dd/8a/8D,3] [d/4a/4]
+[d/8a/8] [d/8a/8A,] [d/4a/4] [d/8a/8] [d/8a/8^FC] [d/4a/4] [d/8a/8]
+[d/8a/8A,/2] [d/4a/4] [d5/8a/8] [^f/8a/8^FCA,/2] [^f/4a/4] [^f/8a/8]
+[A/2^f/8a/8A,/2] [^f/4a/4] [^f/8a/8] [cg/8b/8G,/2] [g/4b/4] [g/8b/8]
+[g/8b/8G,] [g/4b/4] [g/8b/8] [B3/2g/8b/8GB,] [g/4b/4] [g/8b/8]
+[g/8b/8G,] [g/4b/4] [g/8b/8] [g/8b/8G2B,2D,] [g/4b/4] [g/8b/8]
+[A/2g/8b/8G,/2] [g/4b/4] [g/8b/8] [B3g/8b/8G,/2] [g/4b/4] [g/8b/8]
+[g/8b/8G,] [g/4b/4] [g/8b/8] [g/8b/8GB,/2] [g/4b/4] [g/8b/8]
+[g/8b/8G,B,/2] [g/4b/4] [g/8b/8] [g/8b/8GB,D,] [g/4b/4] [g/8b/8]
+[g/8b/8G,/2] [g/4b/4] [g/8b/8] [B3/2G2EE,2z/2] [G,z/2] [EB,/2]
+[A/2G,B,/2] [B/2A/2EB,E,] [e/2G/2G,/2] [d^FDB,/2] [B,^F,/2]
+[B3/2^FDz/2] [B,E,/2] [^FDz/2] [A/2B,/2D,/2] [BGEE,z/2] [G,z/2]
+[BGEB,E,3/2z/2] [G,z/2] [A/2EB,] [B/2G/2G,/2E,/2] [d^FDB,/2]
+[B,^F,/2] [B2^FDz/2] [B,E,/2] [^FDz/2] [B,/2D,/2] [c3/2ECC,3/2z/2]
+[G,z/2] [DECz/2] [c/2G,C,] [B/2ECB,/2] [A/2G,/2C,/2]
+[B3/2G^CA,^C,z/2] [G,z/2] [^FE^CA,2z/2] [B/2G,] [A/2GE^C] [B/2G,/2]
+[d3A7/2D9/2D,2z/2] [A,z/2] [b/2G=C] [g/2A,] [e/2GCD,] [^d/2A,/2]
+[=d3^F/2D,3] [A5/2A,z/2] [^FCz/2] [D/2A,] [DC^Fz/2] A,/2 [GG,/2]
+[G,z/2] [GB,z/2] [G,z/2] [AGB,z/2] G,/2 [B3/2=F,3z/2] [G,z/2]
+[GB,z/2] [B/2G,] [GB,z/2] [D/2G,/2] [E=C,3z/2] [G,z/2] [ECz/2]
+[G/2G,] [GECB,z/2] G,/2 [A3/2A,3z/2] [G,z/2] [E^Cz/2] [A/2G,]
+[G/2E^C] [A/2G,/2] [BG,/2] [G,z/2] [GB,z/2] [G,z/2] [DGB,z/2] G,/2
+[EC,3z/2] [G,z/2] [E/2=C] [E/2G,] [D/2E/2CD,] [E/2G,/2] [GG,/2]
+[G,z/2] [GB,z/2] [G,z/2] [G2B,2D,z/2] G,/2 G,/2 [G,z/2] [GB,z/2]
+[G,z/2] [GB,z/2] G,/2 

@@ -1,0 +1,28 @@
+X: 1
+T: Scarborough Fair Begeleiding 1
+N: Instrument Channel 1 ... [Acoustic Grand Piano]
+N: Instrument Channel 2 ... [Xylophone]
+N: Instrument Channel 3 ... [FX 5 (Brightness)]
+N: Instrument Channel 4 ... [Pad 1 (New Age)]
+M: 3/4
+L: 1/8
+Q:1/4=60
+N: Last note suggests Dorian mode tune
+K:D
+%untitled
+%by Sirio
+%%MIDI program 2 13
+z/2B,/2D/2C/2A,/2B,/2 E,/2B,/2A,/2B,/2F,/2G,/2|E,/2B,/2D/2C/2A,/2B,/2 E,/2B,/2A,/2B,/2F,/2G,/2|E,/2B,/2D/2C/2A,/2B,/2 E,/2B,/2A,/2B,/2F,/2G,/2|D,/2A,/2D,/2E,/2F,/2A,/2 E,/2B,/2D/2C/2A,/2B,/2|
+E,/2B,/2A,/2B,/2F,/2G,/2 G,/2B,/2D/2B,/2G,/2B,/2|E,/2B,/2E/2B,/2E,/2B,/2 G,/2D/2A,/2C/2E/2=C/2|E,/2B,/2D/2^C/2A,/2B,/2 E,/2B,/2A,/2B,/2F,/2G,/2|E,/2B,/2D/2C/2A,/2B,/2 E,/2B,/2A,/2B,/2F,/2G,/2|
+E,/2B,/2E/2B,/2E,/2B,/2 G,/2B,/2D/2B,/2D/2B,/2|G,/2B,/2F,/2A,/2E,/2G,/2 D,/2A,/2D/2A,/2G,/2A,/2|F,/2A,/2E,/2A,/2D,/2A,/2 E,/2G,/2B,/2G,/2E,/2G,/2|D,/2F,/2A,/2F,/2E,/2G,/2 D,/2F,/2E,/2G,/2F,/2A,/2|
+E,/2B,/2D/2C/2A,/2B,/2 E,/2B,/2A,/2B,/2F,/2G,/2|E,/2B,/2D/2C/2A,/2B,/2 E,/2B,/2A,/2B,/2F,/2G,/2|E,/2B,/2D/2C/2A,/2B,/2 E,/2B,/2A,/2B,/2F,/2G,/2|D,/2A,/2E,/2A,/2D,/2A,/2 E,/2B,/2D/2C/2A,/2B,/2|
+E,/2B,/2A,/2B,/2F,/2A,/2 G,/2B,/2D/2B,/2G,/2B,/2|E,/2B,/2E/2B,/2E,/2B,/2 G,/2D/2A,/2C/2E/2=C/2|E,/2B,/2D/2^C/2A,/2B,/2 E,/2B,/2A,/2B,/2F,/2A,/2|E,/2G,/2A,/2B,/2A,/2F,/2 E,/2G,/2A,/2B,/2A,/2F,/2|
+E,/2B,/2E/2B,/2E,/2B,/2 G,/2B,/2D/2B,/2D/2B,/2|G,/2B,/2F,/2A,/2E,/2G,/2 D,/2A,/2D/2A,/2G,/2A,/2|F,/2A,/2E,/2A,/2D,/2A,/2 E,/2G,/2B,/2G,/2E,/2G,/2|D,/2F,/2A,/2F,/2E,/2G,/2 D,/2F,/2E,/2G,/2F,/2A,/2|
+E,/2B,/2A,/2B,/2G,/2B,/2 F,/2B,/2E,/2B,/2D,/2B,/2|E,/2B,/2F,/2B,/2G,/2B,/2 E,/2G,/2A,/2B,/2A,/2G,/2|E,/2B,/2D/2C/2A,/2B,/2 E,/2B,/2A,/2B,/2F,/2G,/2|D,/2A,/2E,/2A,/2D,/2A,/2 E,/2B,/2D/2C/2A,/2B,/2|
+E,/2B,/2A,/2B,/2F,/2A,/2 G,/2B,/2D/2B,/2G,/2B,/2|E,/2B,/2E/2B,/2E,/2B,/2 G,/2D/2A,/2C/2E/2=C/2|E,/2B,/2D/2^C/2A,/2B,/2 E,/2B,/2A,/2B,/2F,/2A,/2|E,/2G,/2A,/2B,/2A,/2F,/2 E,/2G,/2A,/2B,/2A,/2F,/2|
+E,/2B,/2E/2B,/2E,/2B,/2 G,/2B,/2D/2B,/2D/2B,/2|G,/2B,/2F,/2A,/2E,/2G,/2 D,/2A,/2D/2A,/2G,/2A,/2|F,/2A,/2E,/2A,/2D,/2A,/2 E,/2G,/2B,/2G,/2E,/2G,/2|D,/2F,/2A,/2F,/2E,/2G,/2 D,/2F,/2E,/2G,/2F,/2A,/2|
+E,/2B,/2A,/2B,/2G,/2B,/2 F,/2B,/2E,/2B,/2D,/2B,/2|E,/2B,/2F,/2B,/2G,/2B,/2 E,/2G,/2A,/2B,/2A,/2G,/2|E,/2B,/2D/2C/2A,/2B,/2 E,/2B,/2A,/2B,/2F,/2G,/2|D,/2A,/2E,/2A,/2D,/2A,/2 E,/2B,/2D/2C/2A,/2B,/2|
+E,/2B,/2A,/2B,/2F,/2A,/2 G,/2B,/2D/2B,/2G,/2B,/2|E,/2B,/2E/2B,/2E,/2B,/2 G,/2D/2A,/2C/2E/2=C/2|E,/2B,/2D/2^C/2A,/2B,/2 E,/2B,/2A,/2B,/2F,/2A,/2|E,/2G,/2A,/2B,/2A,/2F,/2 E,/2G,/2A,/2B,/2A,/2F,/2|
+E,/2B,/2E/2B,/2E,/2B,/2 G,/2B,/2D/2B,/2D/2B,/2|G,/2B,/2F,/2A,/2E,/2G,/2 D,/2A,/2D/2A,/2G,/2A,/2|F,/2A,/2E,/2A,/2D,/2A,/2 E,/2G,/2B,/2G,/2E,/2G,/2|D,/2F,/2A,/2F,/2E,/2G,/2 D,/2F,/2E,/2G,/2F,/2A,/2|
+E,/2B,/2D/2C/2A,/2B,/2 E,/2B,/2A,/2B,/2F,/2G,/2|E,/2B,/2D/2C/2A,/2B,/2 E,/2B,/2A,/2B,/2F,/2G,/2|E,/2G,/2B,/2G,/2A,/2D/2 [B,2E,2]
+

@@ -20,7 +20,7 @@ MIT License.
 
 ## Contributing
 
-If you are fimilar with git:
+New songs or song packs are welcome! If you are fimilar with git:
 
 1. Fork it
 2. Create your branch (`git checkout -b my-new-feature`)

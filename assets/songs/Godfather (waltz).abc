@@ -1,0 +1,29 @@
+X: 1
+T: The Godfather Waltz v.2 (Lute/Harp) [Piano]
+Z: Jazriel the Naughty - Vilya
+%  v.2 revision, transposed differently to preserve certain high note
+%  look for v.3 in the near future, cleaning up the MIDI some more
+%  Enjoy the LotRO-tized Godfather waltz. Someday, and that day may
+%  never come, I'll call upon you to do a service for me. *wink*
+L: 1/4
+Q: 114
+K: C
+
+[E4A,4z] A [ec] A [d4B4A,4F4] [A,4E4z] A [ec] A [d4B4A,4F4] [A,4E4z] A
+[ec] A [d4B4A,4F4] [A,4E4z] A [ec] A [d11/8B11/8A,F] e a c'
+[c4b11/8A,4E4z] [a11/8z] [c'11/8z] [a11/8z] [d4b11/8A,4F4z] [a11/8z]
+[f11/8z] [g11/8z] [e5c2E2A,8] [B2D2] [A4C4z] e a c' [c4bA,4E4] a c' a
+[e2bC2A2] a [A2eC2] ^d [A6=d5F6D2] A,2 [D2z] [d2z] [fA,] [^gB,]
+[b5f5d5D,6z] A, D F A [d2z] [f10A,] [^gB,] [c5a5e5z] E, A, C E [A2z]
+[c2z] =g [A4c13f3E4E,4z] e g f [A2f12D4E,4z] e [^Ge] [E^G]
+[A5E5C5A,2] E,2 A, [aec] [c10ea] ^g [=g4f25/8d4B,4z/2] [Dz/2] =G
+[D2z9/8] f7/8 [b2B2f3G,4z/2] [Dz/2] F [aB2d2G2] [f15z] [c121/8e5C,4z]
+[G,2z] [B2z] G, [A2C,4z] [eC] [gG2E] [eC] [d5B4D,4z/2] [B,z/2] D F2
+[A4F,4z/2] [B,z/2] [dE] [f/8F2] f7/8 [^dz/8] [c71/8z7/8] [^G5e5E,5z]
+B, E B, E e a c' [c8bA,4E4] a c' a [=d4bA,4F4] [az/8] f7/8 [f121/8z]
+g [c8e5E2A,8] [B2D2] [A4C4z] e a c' [bc10A,4E4] a c' a [d2bF2A,4]
+[az/8] [f71/8z7/8] [A2eC2] ^d [=d5B2A,6F2] [c14E2] [A2F2z] [d2z]
+[f2A,] [^gB,] [b5f6d5D,6z] A, D F [A2z] [d2z] [f10A,] [^gB,]
+[c9/8e5a5z] [E,z/8] [c31/8z7/8] A, C [E2z] [A2z] [c2z] =g
+[A4c8f3E,4E4z] e g f [A2d2f121/8E,4E4z] e [^G2d2e] ^g
+[A5c121/8e5a5A,2] E,2 [A,2z] 

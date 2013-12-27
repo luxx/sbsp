@@ -1,0 +1,32 @@
+X:1
+T:Flight of the Bumblebee
+Z:BobLion54
+M:2/4
+L:1/16
+Q:1/4=120
+K:A
+e^d =dc dc =cB|=cB ^A=A G=G F=F|E^D =DC DC =CB,|=CB, ^A,=A, G,=G, F,=F,|
+E,^D, =D,C, D,C, =C,B,|E,^D, =D,^C, D,C, =C,B,|E,^D, =D,^C, =C,=F, E,^D,|E,^D, =D,^C, =C,^C, D,^D,|
+E,^D, =D,C, =C,=F, E,^D,|E,^D, =D,^C, =C,^C, D,^D,|E,^D, =D,C, D,C, =C,B,|=C,^C, D,^D, E,=F, E,^D,|
+E,^D, =D,C, D,C, =C,B,|=C,^C, D,^D, E,^F, =G,^G,|A,G, =G,F, =F,^A, =A,^G,|A,G, =G,^F, =F,^F, =G,^G,|
+A,G, =G,F, =F,^A, =A,^G,|A,G, =G,^F, =F,^F, =G,^G,|A,G, =G,F, =G,F, =F,E,|=F,^F, =G,^G, A,^A, =A,G,|
+A,G, =G,F, =G,F, =F,E,|=F,^F, =G,^G, A,^A, =A,G,|A,-[A,-A,] [A,-A,][A,A,] A,A, A,A,|^A,-[^A,G,-] [^A,-G,][^A,G,-] [^A,-G,][^A,G,-] [^A,-G,][^A,G,]|
+=A,-[A,-A,] [A,-A,][A,A,] A,A, A,A,|^A,-[^A,G,-] [^A,-G,][^A,G,-] [^A,-G,][^A,G,-] [^A,-G,][^A,G,]|[=A,A,-][^A,A,-] [=A,A,-][G,A,] A,^A, =A,G,|A,^A, =A,G, A,^A, =A,G,|
+A,^A, B,=C ^C=C B,^A,|=A,^A, B,=C ^C=C B,^A,|D-[D-=D,] [D-D,][DD,] D,D, D,D,|^D-[^DC,-] [^D-C,][^DC,-] [^D-C,][^DC,-] [^D-C,][^DC,]|
+=D-[D-D,] [D-D,][DD,] D,D, D,D,|^D-[^DC,-] [^D-C,][^DC,-] [^D-C,][^DC,-] [^D-C,][^DC,]|[=DD,-][^DD,-] [=DD,-][^CD,-] [DD,-][^DD,-] [=DD,-][CD,]|D^D =DC D^D =DC|
+D^D E=F ^F=F E^D|=D^D E=F ^F=F E^D|d^c =cB ^A^d =d^c|dc =cB ^AB =c^c|
+dc =cB =cB ^A=A|^AB =c^c =c^c d^d|e^d =dc dc =cB|=cB ^A=A ^G=G ^F=F|
+E=F E^D E=F E^D|E=F E^D E=F E^D|E4 E,/2z3/2 =C,/2z3/2|A,/2z3/2 =F,/2z3/2 A,/2z3/2 =C,/2z3/2|
+E,^D, =D,^C, D,C, =C,B,|=C,B, ^A,=A, G,=G, ^F,=F,|E,4 E2 =C2|=A,2 =F,2 A,2 =C2|
+E4 e/2z3/2 =c/2z3/2|A/2z3/2 =F/2z3/2 A/2z3/2 =c/2z3/2|ez3 E4|e4 E,=F, ^F,=G,|
+^G,A, ^A,B, =C,^C, D,^D,|E,=F, E,^D, E,=F, E,^D,|E^D =D^C =C=F E^D|E^D =D^C =C^CD^D|
+E^D =DC =C=F E^D|E^D =D^C =C^C D^D|E^D =DC DC =CB,|=C^C D^D E=F E^D|
+E^D =DC DC =CB,|=C^C D^D E^F =G^G|AG =GF =F^A =A^G|AG =G^F =F^F =G^G|
+AG =GF =F^A =A^G|AG =G^F =F^F =G^G|AG =GF =GF =FE|=F^F =G^G A^A =AG|
+AG =GF =F^F =G^G|AB =cd e=f e^d|e^d =d^c =c=f e^d|e^d =d^c =c^c d^d|
+e2 GA ^AB =c^c|=dc =cB =cB ^A=A|GA ^AB =c^c d^d|e=f e^d e=f e^d|
+e2 G=A ^AB =c^c|=dc =cB =cB ^A=A|GA ^AB =c^c d^d|e=f e^d e^f =g^g|
+ag =gf =gf =fe|=fe ^d=d c=c B^A|=AG =GF =GF =FE|=FE ^D=D C=C B,^A,|
+=A,^A, =A,G, A,^A, =A,G,|A,^A, =A,G, A,B, ^CD|E=F E^D E=F E^D|E=F E^D E^F =G^G|
+A2 z2 E,=F, ^F,=G,|^G,A, ^A,B, =C^C =D^D|E=F ^F=G ^GA ^AB|=c^c d^d e^f =g^g|
+a2 z2 [=A2E2=C2] z2|=A,2
